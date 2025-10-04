@@ -1,3 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
 # Data folders - use team's data folder instead
 data/
 
