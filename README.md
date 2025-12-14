@@ -153,12 +153,13 @@ Key EDA insights:
 ### Annotated Visualizations (export from notebooks)
 > Export these figures from the EDA notebook into `docs/figures/` to fully satisfy the rubric.
 
-**1) Average hourly load shape (daily pattern)**
+**1) Average hourly load shape (daily pattern)**  
+*Figure 1. Daily energy pattern with annotation.*  
 ![Daily energy pattern with annotation](visualizations/energy_consumption_pattern.png)
 
-**2) Weekday vs weekend comparison**
+**2) Weekday vs weekend comparison**  
+*Figure 2. Weekday vs weekend energy distribution with annotation.*  
 ![Weekday vs weekend energy distribution with annotation](visualizations/daily_energy_use.png)
-
 ---
 
 ## Modeling Approach
