@@ -151,8 +151,6 @@ Key EDA insights:
 - **Seasonality**: winter and summer loads increase (HVAC-driven).
 
 ### Annotated Visualizations (export from notebooks)
-> Export these figures from the EDA notebook into `docs/figures/` to fully satisfy the rubric.
-
 **1) Average hourly load shape (daily pattern)**  
 *Figure 1. Daily energy pattern with annotation.*  
 ![Daily energy pattern with annotation](visualizations/energy_consumption_pattern.png)
