@@ -157,7 +157,7 @@ Key EDA insights:
 
 **2) Weekday vs weekend comparison**  
 *Figure 2. Weekday vs weekend energy distribution with annotation.*  
-![Weekday vs weekend energy distribution with annotation](visualizations/daily_energy_use.png)
+![Weekday vs weekend energy distribution with annotation](visualizations/weeklyweekday.png)
 ---
 
 ## Modeling Approach
