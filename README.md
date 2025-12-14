@@ -139,7 +139,7 @@ Run notebooks in this order (top-to-bottom):
 **Expected outputs**
 - Cleaned dataset files (CSV) in `data/nrel/clean/`
 - Evaluation tables (baseline vs ML models)
-- Exported visualizations (recommended to save to `docs/figures/`)
+- Exported visualizations (recommended to save to `visualizations`)
 
 ---
 
@@ -154,10 +154,10 @@ Key EDA insights:
 > Export these figures from the EDA notebook into `docs/figures/` to fully satisfy the rubric.
 
 **1) Average hourly load shape (daily pattern)**
-![Daily energy pattern with annotation](docs/figures/eda_daily_pattern.png)
+![Daily energy pattern with annotation](visualizations/energy_consumption_pattern.png)
 
 **2) Weekday vs weekend comparison**
-![Weekday vs weekend energy distribution with annotation](docs/figures/eda_weekday_weekend.png)
+![Weekday vs weekend energy distribution with annotation](visualizations/daily_energy_use.png)
 
 ---
 
